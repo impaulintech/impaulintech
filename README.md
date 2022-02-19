@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @impaulintech
 - 👀 I’m interested in coding, trading, investing, business, and personal finance.
 - 🌱 I’m currently learning javascript and react.js
-- 💞️ I’m looking to collaborate on aspiring Software Engineers
+- 💞️ I’m looking to collaborate with aspiring Software Engineers
 - 📫 How to reach me : https://impaulintech.github.io/profile
 
 <!---
