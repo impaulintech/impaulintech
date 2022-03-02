@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @impaulintech
+- 👋 Hi, @impaulintech
 - 👀 I’m interested in coding, trading, investing, business, and personal finance.
 - 🌱 I’m currently learning javascript and react.js
 - 💞️ I’m looking to collaborate with aspiring Software Engineers
