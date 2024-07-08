@@ -5,4 +5,3 @@
 - 📫 How to reach me : website under development.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=impaulintech&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?username=impaulintech
